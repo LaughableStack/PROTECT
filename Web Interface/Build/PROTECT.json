@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Thirst",
+"dataUrl": "PROTECT.data.unityweb",
+"asmCodeUrl": "PROTECT.asm.code.unityweb",
+"asmMemoryUrl": "PROTECT.asm.memory.unityweb",
+"asmFrameworkUrl": "PROTECT.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
